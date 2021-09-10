@@ -1,21 +1,8 @@
-<<<<<<< HEAD
-# name: Snake
-# on: [push]
-# jobs:
-#     Snake:
-#         runs-on: ubuntu-latest
-#         steps:
-=======
->>>>>>> b982e1ed49a4d3db7caf677d7e3d0fc0add4b1c9
 - uses: Platane/snk@master
   with:
       # github user name to read the contribution graph from (**required**)
       # using action context var `github.repository_owner` or specified user
-<<<<<<< HEAD
       github_user_name: ${{ github.breno5g }}
-=======
-      github_user_name: ${{ github.repository_owner }}
->>>>>>> b982e1ed49a4d3db7caf677d7e3d0fc0add4b1c9
 
       # path of the generated gif file
       # If left empty, the gif file will not be generated
