@@ -6,10 +6,6 @@ Programming student.
 
 ---
 
-Still no plans to go to college but trying to do my best alone. (at a not very good pace but gradually improving)
-
----
-
 <div>
   <a href="https://github.com/breno5g">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
