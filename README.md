@@ -5,7 +5,7 @@
 
 <h2>📑 About Me</h2>
 
-- 🎓 Web developer student at <a href="https://www.betrybe.com/">Trybe</a>
+- 🎓 Web developer student at <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 
 ---
 
