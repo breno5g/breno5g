@@ -3,7 +3,7 @@
 
 ---
 
-<img width="20%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
+<img width="30%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
 <div align="left">
 <h2>📑 About Me</h2>
 
