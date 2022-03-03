@@ -13,13 +13,15 @@
 - 🔖 &nbsp; Passionate about games, books and manga
 </div>
 
+---
+
 <h3>Teste de titulo</h3>
 
 <div align="center" margin-top="40px">
-  <img height="157em" align="left" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="157em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&theme=dracula&hide_langs_below=1"/> -->
-  <img height="157em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raugusto96&amp;layout=compact&amp;langs_count=8&amp;theme=dracula">
+  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raugusto96&amp;layout=compact&amp;langs_count=8&amp;theme=dracula">
 </div>
 
 <!-- <div>
