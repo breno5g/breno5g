@@ -31,6 +31,7 @@
   <img width="50px" src="/assets/styled.png"/>
   <img width="50px" src="/assets/file_type_vscode_icon_130084.svg"/>
   <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
+  <img width="50px" src="/assets/file_type_docker_icon_130643.svg"/>
 </p>
 
 ---
