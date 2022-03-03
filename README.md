@@ -16,7 +16,6 @@
 ---
 
 <br>
-<br>
 
 <h3>Techs and Tools</h3>
 <p>
