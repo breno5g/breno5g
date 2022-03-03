@@ -6,7 +6,7 @@
 <h2>📑 About Me</h2>
 
 - 🎓 &nbsp; Web developer student at <a href="https://www.betrybe.com/">Trybe</a>
-- ***
+- 💼 &nbsp; Currently preparing for my first job opportunity
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
