@@ -30,8 +30,6 @@
   <img width="50px" src="/assets/styled.png"/>
 </p>
 
-<br>
-
 ---
 
 <div align="center">
