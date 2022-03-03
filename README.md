@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://tenor.com/view/peach-cat-cute-boring-work-gif-24918602" alt="gif"/>
+<img src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
 
 <div align="left">
 <h2>📑 About Me</h2>
