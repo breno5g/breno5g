@@ -3,9 +3,8 @@
 
 ---
 
-<img width="40%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
-
 <div align="left">
+<img width="40%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
 <h2>📑 About Me</h2>
 
 - 🎓 &nbsp; Web developer student at <a href="https://www.betrybe.com/">Trybe</a>
