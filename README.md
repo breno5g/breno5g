@@ -16,7 +16,7 @@
 ---
 
 <h3>💾 &nbsp; Techs and Tools</h3>
-<p style="background-color: #f9f">
+<p style="color: #f9f">
   Rod é uma belezura
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
