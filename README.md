@@ -3,8 +3,13 @@
 
 ---
 
-<h2>📑 About me</h2>
-- placeholder
+<h2>📑 Personal Information</h2>
+
+- Name: Breno Santos
+- Age: 22 years old
+- Naturality: Brazilian
+
+<h2>📑 About Me</h2>
 
 ---
 
