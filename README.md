@@ -33,9 +33,9 @@
 ---
 
 <div align="center">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&amp;layout=compact&amp;langs_count=8&amp;theme=dracula">
+  <img width="45%" height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&amp;layout=compact&amp;langs_count=8&amp;theme=dracula">
 </div>
 
 <!-- <div>
