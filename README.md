@@ -4,14 +4,14 @@
 ---
 
 <h2>📑 About me</h2>
-<ul></ul>
+- placeholder
 
 ---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&theme=dracula&hide_langs_below=1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&theme=dracula&hide_langs_below=1"/>
 </div>
 
 <!-- <div>
