@@ -17,7 +17,7 @@
 
 <h3>Techs and Tools</h3>
 <p>
-  <img width="50px" transform="translateY(5px)" src="/assets/html.png"/>
+  <img width="50px" transform="translateY(50px)" src="/assets/html.png"/>
   <img width="56px" src="/assets/file_type_css_icon_130661.svg"/>
   <img width="50px" src="/assets/javascript_icon_130900.svg"/>
 </p>
