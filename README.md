@@ -3,7 +3,7 @@
 
 ---
 
-<h4>📑 About me</h4>
+<h2>📑 About me</h2>
 <ul></ul>
 
 ---
