@@ -29,6 +29,7 @@
   <img width="50px" src="/assets/rtl.png"/>
   <img width="50px" src="/assets/sass_icon_130835.svg"/>
   <img width="50px" src="/assets/styled.png"/>
+  <img width="50px" src="/assets/axios.jpg.png"/>
   <img width="50px" src="/assets/file_type_vscode_icon_130084.svg"/>
 </p>
 
