@@ -33,7 +33,7 @@
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&amp;layout=compact&amp;langs_count=8&amp;theme=dracula">
 </div>
