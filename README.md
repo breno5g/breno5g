@@ -17,9 +17,8 @@
 
 <h3>Techs and Tools</h3>
 <p>
-  <img width="50px" src="/assets/html.png"/>
-  <img width="56px" src="/assets/file_type_css_icon_130661.svg"/>
-  <img width="56px" src="/assets/javascript_icon_130900.svg"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_plain_wordmark_logo_icon_146476.png" width="50">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_wordmark_logo_icon_146574.png" width="50">
 </p>
 
 <div align="center" margin-top="40px">
