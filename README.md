@@ -15,7 +15,7 @@
 
 ---
 
-<h3>Techs and Tools</h3>
+<h3>📱 Techs and Tools</h3>
 <p>
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
