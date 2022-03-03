@@ -1,9 +1,9 @@
 <h1 align="center">&lt;h1>Hello World&lt;/h1&gt;</h1>
 <h3 align="center">&lt;h2>Front-end web developer&lt;/h2&gt;</h3>
+
 ---
 
-📑 About me
-
+<h4>📑 About me</h4>
 <ul></ul>
 
 ---
