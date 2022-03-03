@@ -5,7 +5,7 @@
 
 <img width="30%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
 <div align="left">
-<h2>📑 About Me</h2>
+<h2 align="center">📑 About Me</h2>
 
 - 🎓 &nbsp; Web developer student at <a href="https://www.betrybe.com/">Trybe</a>
 - 💼 &nbsp; Currently preparing for my first job opportunity
@@ -15,7 +15,7 @@
 
 ---
 
-<h3>💾 &nbsp; Techs and Tools</h3>
+<h3 align="center">💾 &nbsp; Techs and Tools</h3>
 <p align="center">
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
