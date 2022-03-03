@@ -15,7 +15,10 @@
 
 ---
 
-<h3>Teste de titulo</h3>
+<h3>Techs and Tools</h3>
+<p>
+  <img src="/assets/html.png"/>
+</p>
 
 <div align="center" margin-top="40px">
   <img height="157em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
