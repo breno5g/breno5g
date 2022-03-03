@@ -30,7 +30,12 @@
   <img width="50px" src="/assets/styled.png"/>
 </p>
 
-<div align="center" style="margin-top: 200px;">
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
   <img height="157em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&theme=dracula&hide_langs_below=1"/> -->
