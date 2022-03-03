@@ -32,8 +32,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <div align="center">
   <img height="157em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
