@@ -3,13 +3,9 @@
 
 ---
 
-<h2>📑 Personal Information</h2>
-
-- Name: Breno Santos
-- Age: 22 years old
-- Naturality: Brazilian
-
 <h2>📑 About Me</h2>
+
+- 🎓 Web developer student at [https://www.betrybe.com/](trybe)
 
 ---
 
