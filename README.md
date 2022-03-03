@@ -18,7 +18,7 @@
 <h3>Techs and Tools</h3>
 <p>
   <img width="50px" src="/assets/html.png"/>
-  <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
+  <img width="60px" src="/assets/file_type_css_icon_130661.svg"/>
 </p>
 
 <div align="center" margin-top="40px">
