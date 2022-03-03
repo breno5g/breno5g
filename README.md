@@ -20,8 +20,8 @@
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
   <img width="50px" src="/assets/javascript_icon_130900.svg"/>
-  <img width="50px" src="/assets/typescript_plain_logo_icon_146316.svg"/>
   <img width="50px" src="/assets/sass_icon_130835.svg"/>
+  <img width="50px" src="/assets/typescript_plain_logo_icon_146316.svg"/>
   <img width="50px" src="/assets/axios.jpg"/>
   <img width="50px" src="/assets/folder_shell_icon_161282.svg"/>
   <img width="50px" src="/assets/react_original_logo_icon_146374.svg"/>
@@ -29,8 +29,8 @@
   <img width="50px" src="/assets/file_type_jest_icon_130514.svg"/>
   <img width="50px" src="/assets/rtl.png"/>
   <img width="50px" src="/assets/styled.png"/>
-  <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
   <img width="50px" src="/assets/file_type_vscode_icon_130084.svg"/>
+  <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
 </p>
 
 ---
