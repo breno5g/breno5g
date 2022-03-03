@@ -1,5 +1,5 @@
-<h1 style="text-align:center">&lt;Hello World/&gt;</h1>
-
+<h1 align="center">&lt;Hello World/&gt;</h1>
+<h3>Front-end web developer</h3>
 ---
 
 Programming student.
