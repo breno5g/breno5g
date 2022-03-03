@@ -1,8 +1,8 @@
-<h1 style="text-align:center;">&lt;Hello World&gt;</h1>
+<h1 style="text-align:center">&lt;Hello World/&gt;</h1>
 
 ---
 
-Programming student. teste
+Programming student.
 
 ---
 
