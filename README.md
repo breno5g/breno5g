@@ -3,8 +3,8 @@
 
 ---
 
-<div align="left">
 <img width="40%" align="right" src="https://c.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif" alt="gif"/>
+<div align="left">
 <h2>📑 About Me</h2>
 
 - 🎓 &nbsp; Web developer student at <a href="https://www.betrybe.com/">Trybe</a>
@@ -13,9 +13,9 @@
 - 🔖 &nbsp; Passionate about games, books and manga
 </div>
 
----
+<h3>Teste de titulo</h3>
 
-<div align="center">
+<div align="center" margin-top="40px">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno5g&theme=dracula&hide_langs_below=1"/>
