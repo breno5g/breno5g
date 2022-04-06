@@ -36,6 +36,9 @@
 
 ---
 
+<h3>💾 &nbsp; Contacts</h3>
+https://img.shields.io/badge/LinkedIn-breno5g?style=for-the-badge&logo=linkedin&logoColor=white
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=breno5g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
