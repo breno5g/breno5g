@@ -37,8 +37,11 @@
 ---
 
 <h3>📱 &nbsp; Contacts</h3>
-<img src="https://img.shields.io/badge/LinkedIn-breno5g?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin' />
-<img src="https://img.shields.io/badge/Codepen-breno5g?style=for-the-badge&logo=codepen&logoColor=white" alt='Codepen' />
+<p>
+  <img src="https://img.shields.io/badge/LinkedIn-breno5g?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin' />
+  <img src="https://img.shields.io/badge/Codepen-breno5g?style=for-the-badge&logo=codepen&logoColor=white" alt='Codepen' />
+</p>
+
 ---
 
 <div align="center">
