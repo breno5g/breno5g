@@ -42,6 +42,11 @@
   <img src="https://img.shields.io/badge/Codepen-breno5g?style=for-the-badge&logo=codepen&logoColor=white" alt='Codepen' />
 </p>
 
+<div align="center">
+<a href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/breno5g?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=breno5g&style=for-the-badge&color=32325D"/>
+</div>
+
 ---
 
 <div align="center">
