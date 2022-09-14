@@ -16,6 +16,7 @@
 ---
 
 <h3>💾 &nbsp; Techs and Tools</h3>
+<h4>Front-end</h4>
 <p>
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
