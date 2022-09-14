@@ -16,7 +16,6 @@
 ---
 
 <h3>💾 &nbsp; Techs and Tools</h3>
-<h4>Front-end</h4>
 <p>
   <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
   <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
@@ -33,6 +32,19 @@
   <img width="50px" src="/assets/file_type_vscode_icon_130084.svg"/>
   <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
   <img width="60px" src="/assets/file_type_docker_icon_130643.svg"/>
+  <img width="60px" src="/assets/nodejs-icon.svg"/>
+  <img width="60px" src="/assets/c#.svg"/>
+  <img width="60px" src="/assets/chai.svg"/>
+  <img width="60px" src="/assets/dot-net-core-7.svg"/>
+  <img width="60px" src="/assets/express-109.svg"/>
+  <img width="60px" src="/assets/insomnia-seeklogo.com.svg"/>
+  <img width="60px" src="/assets/jwt-3.svg"/>
+  <img width="60px" src="/assets/mocha-1.svg"/>
+  <img width="60px" src="/assets/sinon.png"/>
+  <img width="60px" src="/assets/mongoose-1.svg"/>
+  <img width="60px" src="/assets/mongodb-icon-1.svg"/>
+  <img width="60px" src="/assets/mysql-6.svg"/>
+  <img width="60px" src="/assets/python-5.svg"/>
 </p>
 
 ---
