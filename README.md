@@ -33,10 +33,9 @@
   <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
   <img width="60px" src="/assets/file_type_docker_icon_130643.svg"/>
   <img width="60px" src="/assets/nodejs-icon.svg"/>
-  <img width="60px" src="/assets/c#.svg"/>
+  <img width="60px" src="/assets/c-sharp.svg"/>
   <img width="60px" src="/assets/chai.svg"/>
   <img width="60px" src="/assets/dot-net-core-7.svg"/>
-  <img width="60px" src="/assets/express-109.svg"/>
   <img width="60px" src="/assets/insomnia-seeklogo.com.svg"/>
   <img width="60px" src="/assets/jwt-3.svg"/>
   <img width="60px" src="/assets/mocha-1.svg"/>
