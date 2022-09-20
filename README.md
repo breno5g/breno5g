@@ -15,35 +15,48 @@
 
 ---
 
-<h3>💾 &nbsp; Techs and Tools</h3>
+<h2>💾 &nbsp; Techs and Tools</h2>
+
+<h3>👨‍💻 &nbsp; Backend </h3>
 <p>
-  <img width="50px" src="/assets/file_type_html_icon_130541.svg"/>
-  <img width="50px" src="/assets/file_type_css_icon_130661.svg"/>
-  <img width="50px" src="/assets/javascript_icon_130900.svg"/>
-  <img width="50px" src="/assets/sass_icon_130835.svg"/>
-  <img width="50px" src="/assets/typescript_plain_logo_icon_146316.svg"/>
-  <img width="50px" src="/assets/axios.jpg"/>
-  <img width="50px" src="/assets/folder_shell_icon_161282.svg"/>
-  <img width="50px" src="/assets/react_original_logo_icon_146374.svg"/>
-  <img width="50px" src="/assets/redux_original_logo_icon_146365.svg"/>
-  <img width="50px" src="/assets/file_type_jest_icon_130514.svg"/>
-  <img width="50px" src="/assets/rtl.png"/>
-  <img width="50px" src="/assets/styled.png"/>
-  <img width="50px" src="/assets/file_type_vscode_icon_130084.svg"/>
-  <img width="50px" src="/assets/file_type_git_icon_130581.svg"/>
-  <img width="60px" src="/assets/file_type_docker_icon_130643.svg"/>
-  <img width="60px" src="/assets/nodejs-icon.svg"/>
-  <img width="60px" src="/assets/c-sharp.svg"/>
-  <img width="60px" src="/assets/chai.svg"/>
-  <img width="60px" src="/assets/dot-net-core-7.svg"/>
-  <img width="60px" src="/assets/insomnia-seeklogo.com.svg"/>
-  <img width="60px" src="/assets/jwt-3.svg"/>
-  <img width="60px" src="/assets/mocha-1.svg"/>
-  <img width="60px" src="/assets/sinon.png"/>
-  <img width="60px" src="/assets/mongoose-1.svg"/>
-  <img width="60px" src="/assets/mongodb-icon-1.svg"/>
-  <img width="60px" src="/assets/mysql-6.svg"/>
-  <img width="60px" src="/assets/python-5.svg"/>
+  <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=ffffff" alt="Node logo" title="Node" height="25" />
+  <img src="https://img.shields.io/badge/Press-000000?logo=express&logoColor=ffffff" alt="Express logo" title="Express" height="25" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?logo=ts-node&logoColor=ffffff" alt="Typescript logo" title="Typescript" height="25" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=ffffff" alt="Jest logo" title="Jest" height="25" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=ffffff" alt="Axios logo" title="Axios" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=ffffff" alt="MongoDB logo" title="Mongo" height="25" />
+  <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=ffffff" alt="Chai logo" title="Chai" height="25" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=ffffff" alt="Mocha logo" title="Mocha" height="25" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=ffffff" alt="C# logo" title="C#" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/.Net Core-512BD4?logo=.net&logoColor=ffffff" alt="Dotnet logo" title="Dotnet" height="25" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=ffffff" alt="JWT logo" title="JWT" height="25" />
+</p>
+
+<h3>🖥️ &nbsp; Frontend </h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=ffffff" alt="Sass logo" title="Sass" height="25" />
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?logo=styled-components&logoColor=ffffff" alt="Style components logo" title="Style components" height="25" />
+  <img src="https://img.shields.io/badge/Javascript-ccbf02?logo=css3&logoColor=ffffff" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/React-11DAFB?logo=react&logoColor=ffffff" alt="React logo" title="React.js / React Native" height="25" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=ffffff" alt="Redux logo" title="Redux" height="25" />
+  <img src="https://img.shields.io/badge/RTL-E33332?logo=testing-library&logoColor=ffffff" alt="RTL logo" title="RTL" height="25" />
+</p>
+
+<h3>🧰 &nbsp; Tools </h3>
+<p>
+  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=ffffff" alt="Arch logo" title="Arch" height="25" />
+  <img src="https://img.shields.io/badge/Shell Script-4EAA25?logo=gnu-bash&logoColor=ffffff" alt="Bash logo" title="Bash" height="25" />
+  <img src="https://img.shields.io/badge/Docker-0080FF?logo=docker&logoColor=ffffff" alt="Docker logo" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/Vps-0080FF?logo=digitalocean&logoColor=ffffff" alt="Vps logo" title="Vps" height="25" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff" alt="Git logo" title="Git" height="25" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=ffffff" alt="Neovim logo" title="Neovim" height="25" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=ffffff" alt="VScode logo" title="VScode" height="25" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=ffffff" alt="slack logo" title="slack" height="25" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=ffffff" alt="Insomnia logo" title="Insomnia" height="25" />
 </p>
 
 ---
