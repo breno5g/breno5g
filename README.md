@@ -11,6 +11,7 @@
 - 💼 &nbsp; Currently preparing for my first job opportunity
 - 🖥️ &nbsp; Getting Started with Backend Studies
 - 🔖 &nbsp; Passionate about games, books and manga
+- 🐧 &nbsp; Linux Lover
 </div>
 
 ---
