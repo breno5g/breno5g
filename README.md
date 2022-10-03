@@ -65,10 +65,10 @@
 <h3>📱 &nbsp; Contacts</h3>
 <p>
   <a href="https://www.linkedin.com/in/breno5g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-breno5g?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin' />
+    <img src="https://img.shields.io/badge/Linkedin-005099?logo=linkedin&logoColor=ffffff" alt='linkedin' />
   </a>
   <a href="https://codepen.io/breno5g/" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-breno5g?style=for-the-badge&logo=codepen&logoColor=white" alt='Codepen' />
+    <img src="https://img.shields.io/badge/Codepen-211201?logo=codepen&logoColor=ffffff" alt='Codepen' />
   </a>
 </p>
 
