@@ -7,7 +7,7 @@
 <div align="left">
 <h2>📑 About Me</h2>
 
-- &nbsp; Passionate about games, books and manga
+- 📖 &nbsp; Passionate about games, books and manga
 - &nbsp; Linux Lover
 </div>
 
