@@ -7,11 +7,8 @@
 <div align="left">
 <h2>📑 About Me</h2>
 
-- 🎓 &nbsp; Web developer student at Trybe
-- 💼 &nbsp; Currently preparing for my first job opportunity
-- 🖥️ &nbsp; Getting Started with Backend Studies
-- 🔖 &nbsp; Passionate about games, books and manga
-- 🐧 &nbsp; Linux Lover
+- &nbsp; Passionate about games, books and manga
+- &nbsp; Linux Lover
 </div>
 
 ---
