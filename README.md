@@ -7,15 +7,15 @@
 <div align="left">
 <h2>📑 About Me</h2>
 
-- 📖 &nbsp; Passionate about games, books and manga
+- &nbsp; Passionate about games, books and manga
 - &nbsp; Linux Lover
 </div>
 
 ---
 
-<h2>💾 &nbsp; Techs and Tools</h2>
+<h2>&nbsp; Techs and Tools</h2>
 
-<h3>👨‍💻 &nbsp; Backend </h3>
+<h3>&nbsp; Backend </h3>
 <p>
   <img src="https://img.shields.io/badge/Node-339933?logo=node.js&logoColor=ffffff" alt="Node logo" title="Node" height="25" />
   <img src="https://img.shields.io/badge/Press-000000?logo=express&logoColor=ffffff" alt="Express logo" title="Express" height="25" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=ffffff" alt="JWT logo" title="JWT" height="25" />
 </p>
 
-<h3>🖥️ &nbsp; Frontend </h3>
+<h3>&nbsp; Frontend </h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff" alt="HTML5 logo" title="HTML5" height="25" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=ffffff" alt="CSS3 logo" title="CSS3" height="25" />
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/RTL-E33332?logo=testing-library&logoColor=ffffff" alt="RTL logo" title="RTL" height="25" />
 </p>
 
-<h3>🧰 &nbsp; Tools </h3>
+<h3>&nbsp; Tools </h3>
 <p>
   <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=ffffff" alt="Arch logo" title="Arch" height="25" />
   <img src="https://img.shields.io/badge/Shell Script-4EAA25?logo=gnu-bash&logoColor=ffffff" alt="Bash logo" title="Bash" height="25" />
@@ -59,7 +59,7 @@
 
 ---
 
-<h3>📱 &nbsp; Contacts</h3>
+<h3>&nbsp; Contacts</h3>
 <p>
   <a href="https://www.linkedin.com/in/breno5g/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-005099?logo=linkedin&logoColor=ffffff" alt='linkedin' />
